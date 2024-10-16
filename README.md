@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Minecraft Plugins, my System Rice and Spicetify add-ons<br>👯 I’m looking to collaborate on anything really ;D<br>🌱 I’m currently learning Rust and F#  
+🔭 I’m currently working on Minecraft Plugins, my System Rice and Spicetify add-ons<br>👯 I’m looking to collaborate on anything really ;D<br> 
 ⚡ Fun fact Checkout [RecraftedCivilizations](https://github.com/RecraftedCivilizations) for most of my Minecraft Plugins
 
 
